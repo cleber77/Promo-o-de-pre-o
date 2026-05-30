@@ -1,0 +1,6 @@
+{
+  "name": "Promo Fácil",
+  "description": "Plataforma de marketplace de promoções locais que conecta empresas e lojas com clientes buscando ofertas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
